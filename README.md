@@ -17,6 +17,8 @@ The project uses IBM’s (fictional) HR Analytics Attrition dataset from Kaggle.
 
 - `HR Data Analysis and ML Models.ipynb` – main Jupyter notebook with data prep, EDA, modeling, and evaluation
 - `environment.yaml` – configuration file used by conda
+- `HR Dataset categorical numerical variable description` – supplemental file describing categorical/numerical variables in the dataset.  
+- `recruitment_evaluation_data.csv` – HR dataset used for analysis and modeling.  
 
 ## Methods
 
