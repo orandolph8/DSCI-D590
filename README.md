@@ -16,7 +16,7 @@ The project uses IBM’s (fictional) HR Analytics Attrition dataset from Kaggle.
 ## Repository Contents
 
 - `HR Data Analysis and ML Models.ipynb` – main Jupyter notebook with data prep, EDA, modeling, and evaluation
-- (Optional) `requirements.txt` – Python dependencies for reproducibility (not included by default)
+- `requirements.txt` – Python dependencies for reproducibility (not included by default)
 
 ## Methods
 
