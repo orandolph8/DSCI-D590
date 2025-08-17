@@ -1,4 +1,4 @@
-# HR Data Analysis and Machine Learning Models
+# Employee Attrition Data Analysis and Machine Learning Models
 
 This repository contains an end‑to‑end HR analytics project focused on understanding factors related to employee attrition and building predictive machine learning models. The work was authored solely by **Owen Randolph** as part of **DSCI‑590: Applied Data Science**.
 
