@@ -16,7 +16,7 @@ The project uses IBM’s (fictional) HR Analytics Attrition dataset from Kaggle.
 ## Repository Contents
 
 - `HR Data Analysis and ML Models.ipynb` – main Jupyter notebook with data prep, EDA, modeling, and evaluation
-- `requirements.txt` – Python dependencies for reproducibility (not included by default)
+- `environment.yaml` – configuration file used by conda
 
 ## Methods
 
@@ -40,30 +40,6 @@ The project uses IBM’s (fictional) HR Analytics Attrition dataset from Kaggle.
 - Compensation, tenure, and job satisfaction are strong signals for attrition.
 - Tree‑based models (Random Forest / Gradient Boosting) outperformed the logistic baseline.
 - Top drivers included monthly income, years at company, and satisfaction‑related features.
-
-## Getting Started
-
-1) **Clone the repo**
-```bash
-git clone https://github.com/your-username/hr-data-analysis.git
-cd hr-data-analysis
-```
-
-2) **(Optional) Create environment & install packages**
-```bash
-# If you add a requirements.txt later:
-pip install -r requirements.txt
-```
-
-3) **Run the notebook**
-```bash
-jupyter notebook "HR Data Analysis and ML Models.ipynb"
-```
-
-## Notes on Reproducibility
-- This project runs on standard scientific Python libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn`.
-- If you prefer pinned versions, export your environment or add a `requirements.txt` to the repo.
-
 ## Author
 
 **Owen Randolph**  
